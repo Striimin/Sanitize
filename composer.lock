@@ -1,0 +1,64 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "c908ea8360a3d836c9e1099e2265e34c",
+    "packages": [
+        {
+            "name": "bdelespierre/underscore",
+            "version": "v0.2.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/bdelespierre/underscore.php.git",
+                "reference": "29a11aa1486e44690463e410847e7abb2a7fa9d0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/bdelespierre/underscore.php/zipball/29a11aa1486e44690463e410847e7abb2a7fa9d0",
+                "reference": "29a11aa1486e44690463e410847e7abb2a7fa9d0",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.4.0"
+            },
+            "require-dev": {
+                "atoum/atoum": "dev-master"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "Underscore": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "LGPL"
+            ],
+            "authors": [
+                {
+                    "name": "Benjamin Delespierre",
+                    "email": "benjamin.delespierre@gmail.com"
+                }
+            ],
+            "description": "Underscore.js port in PHP",
+            "homepage": "https://github.com/bdelespierre/underscore.php",
+            "keywords": [
+                "JS",
+                "php",
+                "underscore",
+                "utility"
+            ],
+            "time": "2015-08-14 13:45:47"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Striimin\\": "lib/"
+        }
+    },
+    "require": {
+        "bdelespierre/underscore": "0.2.*"
+    }
+}
